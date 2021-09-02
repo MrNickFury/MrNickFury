@@ -5,9 +5,6 @@
 <p>
   Welcome to my page! </br> I'm Nick, Fullstack developer from <img src="https://image.flaticon.com/icons/png/512/3909/3909370.png" width="13"/><b> Piraju, Brazil</b>
 </p>
-
-##
-
 <h3>Things I code with</h3>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -44,6 +41,9 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </p>
+
+##
+
 <div>
   <a href="https://github.com/mrnickfury">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrnickfury&show_icons=true&theme=gotham&include_all_commits=false&count_private=true"/>
