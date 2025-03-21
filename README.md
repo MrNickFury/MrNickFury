@@ -3,7 +3,7 @@
   Hey! Nice to see you.
 </h1>
 <p>
-  Welcome to my page! </br> I'm Nick, Fullstack developer from <img src="https://image.flaticon.com/icons/png/512/3909/3909370.png" width="13"/><b> Piraju, Brazil</b>
+  Welcome to my page! </br> I'm Nick, Fullstack developer.
 </p>
 <h3>Things I code with</h3>
 <p>
